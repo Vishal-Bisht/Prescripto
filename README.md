@@ -35,14 +35,4 @@ Prescripto is a modern web application designed to streamline the process of boo
 - **Authentication:** JWT (JSON Web Tokens)
 - **Other:** Multer (file uploads), ESLint (code quality)
 
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements and bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
 **Prescripto** — Simplifying healthcare, one appointment at a time.
